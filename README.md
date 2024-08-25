@@ -1,1 +1,1 @@
-# CodSoft-Task-2
+Created a dynamic portfolio webpage with HTML, CSS, and JavaScript to showcase projects and skills. It features interactive elements, smooth scrolling, and a responsive design. The page includes sections for projects, skills, and contact information, all presented in a visually appealing format.
